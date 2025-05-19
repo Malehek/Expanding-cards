@@ -28,5 +28,5 @@ This project is part of the "50 Projects in 50 Days" challenge. It features an i
 
 ## Screenshot
 
-![Expanding Cards Screenshot](./screenshot.png)
+![Expanding Cards Screenshot](./screenshot.PNG)
 
